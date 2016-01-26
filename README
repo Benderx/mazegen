@@ -1,0 +1,12 @@
+Creation of Maze:
+Enter: toggle creation of maze and pausing the creation.
++: make the x maze axis larger
+-: make the x maze axis smaller
+}: make the y maze axis larger
+{: make the y maze axis smaller
+Left Click: step the program forward one step to see creation
+
+Playing the maze:
+You are the red square and your goal is to get to the green square, use the arrow keys.
+
+Made by Andrew Duerig
