@@ -1,6 +1,6 @@
 # mazegen
 
-Java - a simple maze generator I wrote with a UI. 
+Java - A simple maze generator I wrote with a UI. 
 
 Its algorithm only follows 2 simple rules:
 1. If a unexplored space exists, explore (move to) that space and break down the wall in the way.
